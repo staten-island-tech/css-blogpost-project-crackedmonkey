@@ -3,7 +3,11 @@ body {
   color: wheat;
   font-size: 60px;
 }
-h1 {
+h6 {
   color: #ffffff;
-  text-align: center;
+  text-align: right;
+}
+.background {
+  background-image: url(index.html);
+  background-position: center;
 }
